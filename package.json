@@ -1,7 +1,6 @@
 {
   "name": "my-porfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +9,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "animate.css": "^4.1.1",
     "bootstrap": "^5.2.1",
-    "font-awesome": "^4.7.0"
-  }
+    "chart.js": "^3.9.1",
+    "font-awesome": "^4.7.0",
+    "wowjs": "^1.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phyudsinkhantag/Phyu-sin-khant-aung.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phyudsinkhantag/Phyu-sin-khant-aung/issues"
+  },
+  "homepage": "https://github.com/phyudsinkhantag/Phyu-sin-khant-aung#readme",
+  "description": ""
 }
